@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/PushpinSample/MainPage.xaml) (VB: [MainPage.xaml](./VB/PushpinSample/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/PushpinSample/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/PushpinSample/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/PushpinSample/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/PushpinSample/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to set a pushpin on a map
 
